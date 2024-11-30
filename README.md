@@ -1,6 +1,6 @@
 #THIS PROGRAM IS A PRODUCT_MANAGEMENT
 
-library : ❤️<br>
+library : <br>
 1.pip install tk<br>
 2.pip install openpyxl<br>
 
